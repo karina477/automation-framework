@@ -1,0 +1,2 @@
+rootProject.name = 'automation-framework'
+startParameter.projectCacheDir = new File(settingsDir, ".gradle-cache")
